@@ -78,7 +78,7 @@ function SearchPage() {
                 star={3.85}
                 price="£90 / night"
                 total="£650 total"
-            />
+            /> 
         </div>
     )
 }
